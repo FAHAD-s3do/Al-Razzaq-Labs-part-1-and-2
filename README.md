@@ -66,3 +66,20 @@ vagrant init ubuntu/focal64, vagrant up, vagrant ssh, vagrant status, vagrant ha
 [vagrant up]: ==> default: Machine booted and ready! | [vagrant status]: default running (virtualbox) | [vagrant ssh]: vagrant@ubuntu-focal:~$
 ```
 
+
+---
+## Scheduling Tasks with Cron
+- **Status:** ✅ COMPLETED SUCCESSFULLY
+- **Date:** 2026-07-03 21:35:09
+- **Environment:** Personal AWS Cloud Account
+
+### Steps Executed:
+```bash
+crontab -e, crontab -l, systemctl status cron, ls /etc/cron.daily/
+```
+
+### Verification Output:
+```text
+crontab: installing new crontab | Active: active (running) since system boot
+```
+
