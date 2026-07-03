@@ -49,3 +49,20 @@ vagrant init ubuntu/focal64, vagrant up, vagrant ssh, vagrant status, vagrant ha
 [vagrant up]: ==> default: Machine booted and ready! | [vagrant status]: default running (virtualbox) | [vagrant ssh]: vagrant@ubuntu-focal:~$
 ```
 
+
+---
+## Lab 1_ Introduction to Vagrant...
+- **Status:** ✅ COMPLETED SUCCESSFULLY
+- **Date:** 2026-07-03 21:27:53
+- **Environment:** Personal AWS Cloud Account
+
+### Steps Executed:
+```bash
+vagrant init ubuntu/focal64, vagrant up, vagrant ssh, vagrant status, vagrant halt
+```
+
+### Verification Output:
+```text
+[vagrant up]: ==> default: Machine booted and ready! | [vagrant status]: default running (virtualbox) | [vagrant ssh]: vagrant@ubuntu-focal:~$
+```
+
