@@ -19,7 +19,7 @@ vagrant init ubuntu/focal64, vagrant up, vagrant ssh, vagrant status, vagrant ha
 
 
 ---
-## Scheduling Tasks with Cron
+## Lab 2_ Scheduling Tasks with Cron
 - **Status:** ✅ COMPLETED SUCCESSFULLY
 - **Date:** 2026-07-03 21:35:09
 - **Environment:** Personal AWS Cloud Account
@@ -36,7 +36,7 @@ crontab: installing new crontab | Active: active (running) since system boot
 
 
 ---
-## Task with cronjob
+## Lab 3_ Task with cronjob
 - **Status:** ✅ COMPLETED SUCCESSFULLY
 - **Date:** 2026-07-03 21:40:36
 - **Environment:** Personal AWS Cloud Account
