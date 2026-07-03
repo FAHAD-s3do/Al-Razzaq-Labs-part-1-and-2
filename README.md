@@ -83,3 +83,20 @@ crontab -e, crontab -l, systemctl status cron, ls /etc/cron.daily/
 crontab: installing new crontab | Active: active (running) since system boot
 ```
 
+
+---
+## Task with cronjob
+- **Status:** ✅ COMPLETED SUCCESSFULLY
+- **Date:** 2026-07-03 21:40:36
+- **Environment:** Personal AWS Cloud Account
+
+### Steps Executed:
+```bash
+crontab -e, crontab -l, systemctl status cron, ls /etc/cron.daily/
+```
+
+### Verification Output:
+```text
+crontab: installing new crontab | Active: active (running) since system boot
+```
+
