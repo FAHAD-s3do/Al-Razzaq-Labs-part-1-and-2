@@ -51,3 +51,7 @@ crontab -e, crontab -l, systemctl status cron, ls /etc/cron.daily/
 crontab: installing new crontab | Active: active (running) since system boot
 ```
 
+
+## Secure file transfer
+
+See [the SCP and SFTP procedure](secure-file-transfer.md) for a guide without personal or host details.
